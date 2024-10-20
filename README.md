@@ -49,3 +49,9 @@ Transfer characteristics                 : PQ           Matrix coefficients     
 ```
 [Feedback](https://www.reddit.com/r/firetvstick/comments/1g7mv91/fire_tv_stick_4k_does_not_play_some_pretty_common/).
 [Github issue](https://github.com/jellyfin/jellyfin-androidtv/issues/2630)
+
+Possibile workaround:
+```
+alias dovifix='tf() { ffmpeg -i "$1" -map 0 -c copy -bsf:v "filter_units=remove_types=39" "dovifix_$1"; }; tf'
+dovifix moviefiletofix.mkv
+```
