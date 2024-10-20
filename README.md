@@ -48,4 +48,5 @@ Default                                  : Yes          Forced                  
 Color range                              : Limited      Color primaries                          : BT.2020
 Transfer characteristics                 : PQ           Matrix coefficients                      : BT.2020 non-constant
 ```
-Feedback [here](https://www.reddit.com/r/firetvstick/comments/1g7mv91/fire_tv_stick_4k_does_not_play_some_pretty_common/).
+[Feedback](https://www.reddit.com/r/firetvstick/comments/1g7mv91/fire_tv_stick_4k_does_not_play_some_pretty_common/).
+[Github issue](https://github.com/jellyfin/jellyfin-androidtv/issues/2630)
