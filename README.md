@@ -11,6 +11,7 @@ This one results in a completely black screen, not even the OSD is displayed.
 It plays well on:
 - Pixel 7 Pro phone (Android 14): VLC, MX Player, Kodi
 - TV LG OLED48CX3LB (WebOS updated to sept 2024): Kodi, Plex (no transcoding), Jellyfin (no transcoding), Stremio
+- On Windows 10: Windows Media Player, MPC-BE, SMPlayer.
 
 On TIMVISION Box Sagemcom DTIW3930 there is no audio output irrespective of player.
 
