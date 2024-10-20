@@ -13,3 +13,4 @@ It plays well on:
 - TV LG OLED48CX3LB (WebOS updated to sept 2024): Kodi, Plex (no transcoding), Jellyfin (no transcoding), Stremio
 
 On TIMVISION Box Sagemcom DTIW3930 there is no audio output irrespective of player.
+Feedback [here](https://www.reddit.com/r/firetvstick/comments/1g7mv91/fire_tv_stick_4k_does_not_play_some_pretty_common/).
