@@ -6,6 +6,7 @@ Fire TV Stick 4K (2nd gen.) fails on some videos that play well on other Android
 ## [black-screen-no-osd.mp4](https://github.com/colemar/fire-tv-stick-4k-problematic-video-samples/raw/refs/heads/main/video/black-screen-no-osd.mp4)
 This is a video sample that does not play on Fire TV Stick 4K (2nd gen.).
 It results in a completely black screen, not even the OSD is displayed.
+
 It plays well on:
 - Pixel 7 Pro phone (Android 14): VLC, MX Player, Kodi
 - TV LG OLED48CX3LB (WebOS updated to sept 2024): Kodi, Plex (no transcoding), Jellyfin (no transcoding), Stremio
